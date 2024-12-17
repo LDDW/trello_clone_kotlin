@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Trello</string>
+    <string name="image_contentDescription">image</string>
+    <string name="let_s_get_started_text">C\'est parti !</string>
+    <string name="intro_text_description">Collaborez et planifiez ensemble sur plusieurs appareils grâce à l\'application Trello.</string>
+    <string name="sign_in">CONNEXION</string>
+    <string name="sign_up">INSCRIPTION</string>
+
+    <string name="sign_up_description_text">Entrez votre nom, votre adresse e-mail et votre mot de passe pour vous inscrire.</string>
+    <string name="name">Nom</string>
+    <string name="password">Mot de passe</string>
+    <string name="email">E-mail</string>
+
+    <string name="sign_in_description_text">Entrez votre nom, votre adresse e-mail et votre mot de passe pour vous connecter.</string>
+
+    <string name="please_click_back_again_to_exit">Veuillez cliquer à nouveau sur retour pour quitter.</string>
+    <string name="please_wait">Veuillez patienter&#8230;</string>
+
+    <string name="nav_my_profile">Mon Profil</string>
+    <string name="nav_sign_out">Déconnexion</string>
+
+    <string name="mobile">Mobile</string>
+    <string name="update">METTRE À JOUR</string>
+    <string name="my_profile_title">Mon Profil</string>
+
+    <string name="create_board_title">Créer un Tableau</string>
+    <string name="create">CRÉER</string>
+    <string name="board_name">Nom du Tableau</string>
+
+    <string name="no_boards_are_available">Aucun tableau n\'est disponible !!!</string>
+
+    <string name="action_add_list">Ajouter une Liste</string>
+    <string name="hint_list_name">Nom de la Liste</string>
+    <string name="action_add_card">Ajouter une Carte</string>
+    <string name="hint_card_name">Nom de la Carte</string>
+    <string name="add_list">Ajouter une Liste</string>
+
+    <string name="members">Membres</string>
+
+    <string name="add_member">Ajouter un Membre</string>
+    <string name="cancel">ANNULER</string>
+    <string name="add">AJOUTER</string>
+    <string name="search_member">Rechercher un Membre</string>
+
+    <string name="label_color">Couleur de l\'Étiquette</string>
+    <string name="select_color">Sélectionner une Couleur</string>
+    <string name="select_members">Sélectionner des Membres</string>
+    <string name="due_date">Date d\'Échéance</string>
+    <string name="select_due_date">Sélectionner une Date d\'Échéance</string>
+
+    <string name="delete_card">Supprimer la Carte</string>
+
+    <string name="alert">Alerte</string>
+    <string name="confirmation_message_to_delete_card">Êtes-vous sûr de vouloir supprimer la carte \'%1$s\' ?</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+
+    <string name="str_select_label_color">Sélectionner la Couleur de l\'Étiquette</string>
+
+    <string name="str_select_member">Sélectionner un Membre</string>
+    <string name="default_notification_channel_id">project_mgmt_notification_channel_id</string>
+</resources>
